@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgb(223, 245, 223) !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+#mainbar
+{
+    background-color: grey !important;
+    width: 100% !important;
+}
+.white
+{
+    color: white !important;
+    font-weight: bolder;
+}
+.ho:hover
+{
+    background-color: lightblue !important;
+    font-weight: bolder;
+    color: white !important;
+}

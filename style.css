@@ -1,0 +1,19 @@
+#mainbar {
+    background-color: grey !important;
+    width: 100% !important;
+}
+
+.card {
+    display: inline-block;
+}
+
+.white {
+    color: white !important;
+    font-weight: bolder;
+}
+
+.ho:hover {
+    background-color: lightblue !important;
+    font-weight: bolder;
+    color: white !important;
+}
